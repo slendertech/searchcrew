@@ -81,14 +81,14 @@ console.log(document.title);
 <div id="spacer">
 </div>
 
-<script async src="\\\Put your GCSE script url here">
+<script async src="https://cse.google.com/cse.js?cx=91290fecbc5dd476a">
 </script>
 
 <div class="gcse-searchresults-only">
 </div>
 
 <p id="cpyright" class="auto-style11">
-© Your Name (Year) &amp; Your Name (Year) </p>
+© Click Developer 2022 &amp; Slender Studios 2022 </p>
 </body>
 
 </html>
