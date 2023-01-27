@@ -13,7 +13,7 @@
     <body>
     <script>
     window.onload = function() {
-    	window.location.href = "default.aspx";
+    	window.location.href = "index.html";
     };
     </script>
     </body>
