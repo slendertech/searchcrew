@@ -2,6 +2,7 @@
 >
 > With the launch of Search Crew 2.0, our
 > source code can found on https://www.launchpad.net/searchcrew.
+> 
 > *The source code for Search Crew 1.x releases will still be 
 > available here and on launchpad.net.*
 
